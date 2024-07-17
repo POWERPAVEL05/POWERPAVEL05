@@ -1,5 +1,5 @@
 - My name Powerpavel
-- i love java
+- i love java but do Python atm
 - code is life
 
 <!---
